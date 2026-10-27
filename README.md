@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225240122
+# Name: Rohith S
+# Date:27/10/2026
 
 
 # AIM:
